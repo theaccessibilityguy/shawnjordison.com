@@ -12,3 +12,6 @@ Personal website for Shawn Jordison, published with GitHub Pages at https://shaw
 
 ## DNS
 DNS is managed in GoDaddy. Only the root A/AAAA records, the www CNAME, and the GitHub verification TXT record relate to this site. Do not change the Microsoft 365 email records (MX, SPF, autodiscover, and related records).
+
+## Notes
+- shawn-jordison.jpg is a temporary headshot. Replace the file with the new photo (same filename) and update the width and height attributes in index.html.
