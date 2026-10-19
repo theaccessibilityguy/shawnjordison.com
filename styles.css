@@ -21,3 +21,5 @@ a.button:focus-visible,a.button:hover:focus-visible{background:var(--white);colo
 
 .portrait{margin:0}.portrait img{display:block;width:100%;height:auto;border:1px solid var(--line)}
 @media(max-width:650px){.portrait{max-width:420px}}
+.portrait{display:flex;justify-content:center}.portrait img{width:min(100%,340px);aspect-ratio:4/5;object-fit:cover;object-position:51% 40%;border:0;border-radius:50%}
+.wordmark span{font-weight:600;color:var(--blue)}
